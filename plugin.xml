@@ -59,7 +59,7 @@
 
         <framework src="com.android.support:support-v4:+" />
         <framework src="com.facebook.android:facebook-android-sdk:3.23.0" />
-
+        
         <!-- cordova plugin src files -->
         <source-file src="platforms/android/src/org/apache/cordova/facebook/ConnectPlugin.java" target-dir="src/org/apache/cordova/facebook" />
 
